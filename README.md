@@ -22,7 +22,9 @@ emojis: {
     success: ':white_check_mark:',
 }
 ```
-
+///REMAKE BY RAYDENFLY
+ZerioDev: https://github.com/ZerioDev/Music-bot
+```
 - For configuration
 
 ```js
