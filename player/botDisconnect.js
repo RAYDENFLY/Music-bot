@@ -9,7 +9,7 @@ module.exports = (client, message, queue) => {
     timestamp: new Date(),
     footer: {
       icon_url: client.user.avatarURL(),
-      text: "© Hyper"
+      text: "© ZerioDev(REMAKE)"
     }
   }
 });
