@@ -14,7 +14,7 @@ module.exports = (client, message, queue, track) => {
     timestamp: new Date(),
     footer: {
       icon_url: client.user.avatarURL(),
-      text: "© Hyper"
+      text: "© ZerioDev (REMAKE)"
     }
   }
 });
